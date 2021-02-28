@@ -1,8 +1,5 @@
 # Repozytorium na potrzeby przedmiotu Badania Internetowe 2021
 
-Zaliczenie:
-
-
 Materiały:
 
 0. Kwestie zaliczenia -- [link do prezentacji](https://www.overleaf.com/read/yjcjsgqvfmrv)
