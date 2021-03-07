@@ -1,0 +1,40 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Data Defect Index
+
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+base <- ggplot() + xlim(0, 1)
+
+base + 
+  geom_function(fun = function(x) 0.1*sqrt((1-x)/x)*3, aes(color = "0.1")) +
+  geom_function(fun = function(x) 0.2*sqrt((1-x)/x)*3, aes(color = "0.2")) +
+  geom_function(fun = function(x) 0.5*sqrt((1-x)/x)*3, aes(color = "0.5")) +
+  geom_function(fun = function(x) 0.8*sqrt((1-x)/x)*3, aes(color = "0.8")) +
+  geom_function(fun = function(x) 0.9*sqrt((1-x)/x)*3, aes(color = "0.9")) +
+  scale_color_brewer(name = expression(rho), type = "qual", palette = "Set1") +
+  theme_bw()  +
+  scale_x_continuous(labels = scales::percent) +
+  scale_y_continuous(limits = c(0, 20)) + 
+  labs(x = "Pokrycie (odsetek)", y = "Obciążenie")
+```
+
+
+
+```{r}
+N <- 38000000
+frac <- c("big"= 0.8, "small"= 0.01)
+n <- frac*N
+D_I <- (1-frac)/frac
+rho <- c(0.005, 0.001)
+sqrt(n)*sqrt( (D_I*rho^2) / (1 - D_I*rho^2))
+
+```
+
