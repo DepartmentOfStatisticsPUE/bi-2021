@@ -7,4 +7,4 @@ Materiały:
 Kody z zajęć:
 
 1. Internet w Polsce i Europie -- [skrypty do pobrania danych](notebooks/1-intro.Rmd)
-2. Badania symulacyjne: generowanie prób losowych i nielosowych -- [skrypty]()
+2. Badania symulacyjne: generowanie prób losowych i nielosowych -- [skrypty](materialy-wyklady/bi_2021_03_15.ipynb)
