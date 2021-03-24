@@ -3,7 +3,7 @@
 Materiały:
 
 1. Wykłady -- [link do prezentacji](https://www.overleaf.com/read/yjcjsgqvfmrv)
-2. Metoda największej wiarygodności, optymalizcja, rozwiązywanie układów równań nieliniowych -- [notebook](materials/3_mle_optimization.ipynb)
+2. Metoda największej wiarygodności, optymalizcja, rozwiązywanie układów równań nieliniowych -- [notebook](materials/3_mle_optimization.ipynb) [otwórz w colab](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/bi-2021/blob/main/materials/3_mle_optimization.ipynb)
 
 Kody z zajęć:
 
