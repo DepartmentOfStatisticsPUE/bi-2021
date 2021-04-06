@@ -2,8 +2,8 @@
 
 Dane pochodzą z dwóch źródeł:
 
-- popyt na pracę  (próba losowa, 10 984 obserwacji, dane poddane obróbce i są pozmieniane w porównaniu do danych rzeczywistych)
-- centralna baza ofert pracy  (próba nielosowa, 9 469 obserwacji)
+- popyt na pracę  (popyt; próba losowa, 10 984 obserwacji, dane poddane obróbce i są pozmieniane w porównaniu do danych rzeczywistych)
+- centralna baza ofert pracy  (cbop; próba nielosowa, 9 469 obserwacji)
 - częśc wspólna dwóch baz: 505
 
 Zbiór zawiera 20 958 obserwacji oraz 14 zmiennych, które nazywają się następująco:
@@ -17,7 +17,7 @@ Zbiór zawiera 20 958 obserwacji oraz 14 zmiennych, które nazywają się nastę
 + woj -- województwo
 + zawod_kod2 -- zawod (1 cyfra, zgodnie z http://www.klasyfikacje.gofin.pl/kzis/6,0.html)
 + wolne_miejsca -- liczba deklarowanych wolnych miejsc
-+ id_cbop -- identyfkikator z CBOP
++ id_cbop -- identyfikator z CBOP
 + jedna_zmiana -- czy wakaty były na jedną zmianę (TRUE = tak, FALSE  = nie)
 + wymiar_40 -- czy wymiar pracy wynosił 40 godzin (TRUE = tak, FALSE  = nie)
 + wolne_miejsca_cbop -- liczba deklarowanych wolnych miejsc pracy
