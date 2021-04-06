@@ -35,11 +35,11 @@ Pierwsze 6 wierszy
 ```r
 > head(zajecia)
   id_popyt                             id_jednostki waga sek klasa_pr sekc_pkd woj zawod_kod2 wolne_miejsca id_cbop jedna_zmiana wymiar_40 wolne_miejsca_cbop wolne_miejsca_niepeln_cbop
-1        1 a9cc990df6a99ab215a1bc13f51d4825c7d52d18    2   1        D        O  14          1             2      NA           NA        NA                 NA                         NA
-2        2 a9cc990df6a99ab215a1bc13f51d4825c7d52d18    6   1        D        O  14          2             7      NA           NA        NA                 NA                         NA
+1        1 a9cc990df6a99ab215a1bc13f51d4825c7d52d18    1   1        D        O  14          1             2      NA           NA        NA                 NA                         NA
+2        2 a9cc990df6a99ab215a1bc13f51d4825c7d52d18    1   1        D        O  14          2             7      NA           NA        NA                 NA                         NA
 3        3 c9dbaf50890165ebe810aa770de0e9df903dc35b    6   1        D        O  24          2             6      NA           NA        NA                 NA                         NA
-4        4 718e0bba42bcec6ed98f9690db6d26cb7b93c880    4   1        D      R.S  14          2             7      NA           NA        NA                 NA                         NA
-5        5 532a1879a692b9d7bbb7282ba757d028156ef341    3   1        D      R.S  14          2             6      NA           NA        NA                 NA                         NA
+4        4 718e0bba42bcec6ed98f9690db6d26cb7b93c880    1   1        D      R.S  14          2             7      NA           NA        NA                 NA                         NA
+5        5 532a1879a692b9d7bbb7282ba757d028156ef341    1   1        D      R.S  14          2             6      NA           NA        NA                 NA                         NA
 6        6 0b6b623fa45e257284a3049d097af322841337e3    1   1        D      R.S  22          2             1      NA           NA        NA                 NA                         NA
 ```
 
