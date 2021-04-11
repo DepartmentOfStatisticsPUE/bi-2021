@@ -11,3 +11,4 @@ Kody z zajęć:
 2. Badania symulacyjne: generowanie prób losowych i nielosowych -- [skrypty](materialy-wyklady/bi_2021_03_15.ipynb)
 3. Metody quasi-randomizacyjne:
     + post-stratyfikacja -- [skrypty](materialy-wyklady/bi_2021_04_07.ipynb)
+    + kalibracja -- [skrypty](materialy-wyklady/bi_2021_04_12.ipynb)
