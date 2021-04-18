@@ -12,3 +12,4 @@ Kody z zajęć:
 3. Metody quasi-randomizacyjne:
     + post-stratyfikacja -- [skrypty](materialy-wyklady/bi_2021_04_07.ipynb)
     + kalibracja -- [skrypty](materialy-wyklady/bi_2021_04_12.ipynb)
+    + propensity score weighting -- [skrypty](materialy-wyklady/bi_2021_04_19.ipynb)
