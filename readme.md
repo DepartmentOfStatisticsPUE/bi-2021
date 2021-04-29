@@ -20,3 +20,7 @@
 ### Prace domowe
 
 1. Praca domowa z web scraping -- [opis](homeworks/hw1-web-scraping.md)
+
+### Projekt
+
+Przykład projektu -- [notatnik z opisem i kodem](project/bi_projekt_przyklad.ipynb)
