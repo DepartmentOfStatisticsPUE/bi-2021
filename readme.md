@@ -16,6 +16,9 @@
     + Model PSA z artykułu Chen, Li i Wu (2020) --  [skrypty](materialy-wyklady/bi_2021_04_19_chen_li_wu.ipynb)
 4. Wstęp do web scraping -- [skrypty](materialy-wyklady/bi_2021_04_26.ipynb)
 5. Estymatory podwójnie odporne (ang. doubly/double robust estimators)
+    + Estymator DR (Chen, Li i Wu, 2020)) -- [skrypty]
+7. Masowa imputacja
+8. Google Trends
 
 ### Prace domowe
 
