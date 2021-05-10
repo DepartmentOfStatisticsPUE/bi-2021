@@ -15,10 +15,11 @@
     + propensity score weighting -- [skrypty](materialy-wyklady/bi_2021_04_19.ipynb)
     + Model PSA z artykułu Chen, Li i Wu (2020) --  [skrypty](materialy-wyklady/bi_2021_04_19_chen_li_wu.ipynb)
 4. Wstęp do web scraping -- [skrypty](materialy-wyklady/bi_2021_04_26.ipynb)
-5. Estymatory podwójnie odporne (ang. doubly/double robust estimators)
-    + Estymator DR (Chen, Li i Wu, 2020) -- [skrypty](materialy-wyklady/bi_2021_05_10.ipynb)
-7. Masowa imputacja
-8. Google Trends
+5. Metody oparte na modelu
+    + Masowa imputacja
+7. Metody mieszane
+    + Estymatory podwójnie odporne (ang. doubly/double robust estimators; Chen, Li i Wu, 2020) -- [skrypty](materialy-wyklady/bi_2021_05_10.ipynb)
+9. Google Trends
 
 ### Prace domowe
 
