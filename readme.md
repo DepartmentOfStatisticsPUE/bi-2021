@@ -16,7 +16,7 @@
     + Model PSA z artykułu Chen, Li i Wu (2020) --  [skrypty](materialy-wyklady/bi_2021_04_19_chen_li_wu.ipynb)
 4. Wstęp do web scraping -- [skrypty](materialy-wyklady/bi_2021_04_26.ipynb)
 5. Metody oparte na modelu
-    + Masowa imputacja -- podejście 1, metoda Riversa (2007) -- [skrypty]
+    + Masowa imputacja -- podejście 1, metoda Riversa (2007) -- [skrypty](materialy-wyklady/bi_2021_05_17_rivers.ipynb)
     + Masowa imputacja -- podejście 2, metoda Kim,  Park, Chen i Wu (2021) -- [skrypty]
 7. Metody mieszane
     + Estymatory podwójnie odporne (ang. doubly/double robust estimators; Chen, Li i Wu, 2020) -- [skrypty](materialy-wyklady/bi_2021_05_10.ipynb)
