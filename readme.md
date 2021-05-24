@@ -20,7 +20,7 @@
     + Masowa imputacja -- podejście 2, metoda Kim,  Park, Chen i Wu (2021) -- [skrypty]
 7. Metody mieszane
     + Estymatory podwójnie odporne (ang. doubly/double robust estimators; Chen, Li i Wu, 2020) -- [skrypty](materialy-wyklady/bi_2021_05_10.ipynb)
-9. Google Trends
+9. Google Trends -- praca z pakietem `gtrendsR` -- [skrypty](materialy-wyklady/bi_2021_05_24.ipynb)
 
 ### Prace domowe
 
