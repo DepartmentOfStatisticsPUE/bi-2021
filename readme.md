@@ -21,6 +21,7 @@
 7. Metody mieszane
     + Estymatory podwójnie odporne (ang. doubly/double robust estimators; Chen, Li i Wu, 2020) -- [skrypty](materialy-wyklady/bi_2021_05_10.ipynb)
 9. Google Trends -- [mapa mysli](materialy-wyklady/mapa-mysli-zajecia.png), praca z pakietem `gtrendsR` -- [skrypty](materialy-wyklady/bi_2021_05_24.ipynb)
+10. Praca z API -- XML, JSON, Spotifyr -- [skrypty](materialy-wyklady/bi_2021_06_07.ipynb)
 
 ### Prace domowe
 
